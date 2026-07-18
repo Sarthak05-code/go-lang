@@ -3,7 +3,7 @@
 A command-line interface (CLI) number guessing game built using Go. It features dynamic difficulty levels and an advanced turn-based 5-second countdown timer using Go routines and channels.
 
 ## Project URL
-https://github.com/Sarthak05-code/go-lang/blob/main/project/Numberguesser.go
+https://github.com/Sarthak05-code/number-guessing-game
 
 ## How to Run the Project
 
